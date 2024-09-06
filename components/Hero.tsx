@@ -2,7 +2,11 @@ import React from 'react'
 
 function Hero() {
   return (
-    <div>Hero</div>
+      <div className='pt-30 pb-20'>
+          <div>
+              Hero
+          </div>
+    </div>
   )
 }
 
